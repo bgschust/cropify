@@ -6,4 +6,4 @@
 ## Tell the GitHub repository software to ignore (or actually hide and make private) any files specified below.
 
 # API Keys
-/.env
+.env

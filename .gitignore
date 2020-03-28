@@ -1,0 +1,9 @@
+# Documentation
+## See https://help.github.com/en/github/using-git/ignoring-files for GitHub help documentation.
+## See "How to Hide Your API Keys" by PortEXE on YouTube for a video walkthrough. https://www.youtube.com/watch?v=NpWWOS-tC5s&list=LL4VRGDhImOc4ysq8k-v_x2g&index=4&t=0s
+
+# Purpose
+## Tell the GitHub repository software to ignore (or actually hide and make private) any files specified below.
+
+# API Keys
+/.env
